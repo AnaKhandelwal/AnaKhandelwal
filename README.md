@@ -12,7 +12,6 @@ I love building impactful tools that blend **AI, automation, and great user expe
 ---
 
 ## 💻 Technologies
-Talk to me about:
 - Front-end: **ReactJS, HTML, CSS, JavaScript**
 - Backend: **Node.js, Express.js, FastAPI**
 - Databases: **PostgreSQL, ChromaDB**
