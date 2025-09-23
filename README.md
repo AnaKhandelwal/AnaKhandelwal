@@ -28,7 +28,3 @@ I love building impactful tools that blend **AI, automation, and great user expe
 
 ---
 
-
-![Ana's github stats](https://github-readme-stats.vercel.app/api?username=AnaKhandelwal&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AnaKhandelwal.AnaKhandelwal)
